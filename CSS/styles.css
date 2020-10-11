@@ -1,0 +1,44 @@
+body {
+  background-color: #ffeadb;
+}
+
+a:hover {
+  background-color: #f6f578;
+}
+
+div {
+  overflow: hidden;
+  width: 400px;
+}
+
+img {
+  width: 400px;
+}
+
+img:hover {
+  background-color: #f0daa4;
+}
+
+main {
+  background-color: #f7f7f7;
+}
+
+nav {
+  border-color: #6f0000;
+  border-style: none;
+  border-bottom-style: dotted;
+  width: 20%;
+}
+
+ol {
+  background-color: #cceabb;
+  list-style-type: lower-alpha;
+}
+
+ul {
+  list-style-type: circle;
+}
+
+video{
+  width: 700px;
+}
